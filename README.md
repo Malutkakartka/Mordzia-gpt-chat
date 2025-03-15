@@ -1,2 +1,2 @@
 # Mordzia-gpt-chat
-Kopia mordzi
+Kopia mordzi agenta gpt chat
